@@ -1,0 +1,17 @@
+{
+  "common": {
+    "appName": "Reservas",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "loading": "Cargando..."
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "calendar": "Calendario",
+    "clients": "Clientes",
+    "services": "Servicios",
+    "professionals": "Profesionales",
+    "settings": "Ajustes"
+  }
+}

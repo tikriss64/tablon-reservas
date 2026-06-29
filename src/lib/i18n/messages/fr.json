@@ -1,0 +1,17 @@
+{
+  "common": {
+    "appName": "Réservations",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "loading": "Chargement..."
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "calendar": "Calendrier",
+    "clients": "Clients",
+    "services": "Services",
+    "professionals": "Professionnels",
+    "settings": "Paramètres"
+  }
+}

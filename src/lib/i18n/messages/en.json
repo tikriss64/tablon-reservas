@@ -1,0 +1,17 @@
+{
+  "common": {
+    "appName": "Bookings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "loading": "Loading..."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "calendar": "Calendar",
+    "clients": "Clients",
+    "services": "Services",
+    "professionals": "Professionals",
+    "settings": "Settings"
+  }
+}
